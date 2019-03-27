@@ -1,2 +1,3 @@
 # PHP-Unwanted-Input-Checker
-Small PHP web app that inpuyts the user for a supported image and file size. Rejects any malicious input.
+Made in NetBeans IDE.
+Small PHP web app that inputs the user for a supported image and file size. Rejects any malicious input.
